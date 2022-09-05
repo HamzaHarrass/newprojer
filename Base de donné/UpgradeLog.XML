@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="reservation_hotel">
+</Property><Property Name="Fichier solution" Value="E:\Projet de classe\Base de donné\reservation_hotel.ssmssln">
+</Property><Property Name="Date" Value="mardi 4 mai 2021">
+</Property><Property Name="Time" Value="21:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="reservation_hotel.ssmssln" Description="Fichier correctement sauvegardé en tant que E:\Projet de classe\Base de donné\Backup\reservation_hotel.ssmssln">
+</Event><Event ErrorLevel="0" Project="" Source="reservation_hotel.ssmssln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="reservation_hotel.ssmssln" Description="Converted">
+</Event></UpgradeLog>

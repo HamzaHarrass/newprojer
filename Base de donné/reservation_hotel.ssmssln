@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Par défaut |Default = Par défaut |Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
